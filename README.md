@@ -1,8 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
 
@@ -10,7 +8,8 @@
 
 ###
 
-<p align="left">Always exploring new technologies and eager to collaborate on innovative projects. 🌐💻 #TechExplorer</p>
+<p align="left">
+As a CSE student at CBIT, I'm deeply passionate about programming and development. I enjoy solving complex problems and constantly seek to enhance my skills in various languages and technologies. Whether it's building sleek user interfaces or optimizing algorithms, I thrive on the challenges of software engineering. I actively participate in coding competitions and hackathons to push my boundaries and stay updated with the latest advancements in the field. With a strong drive to make a meaningful impact through technology, I embrace the dynamic nature of computer science with enthusiasm and dedication.</p>
 
 ###
 
