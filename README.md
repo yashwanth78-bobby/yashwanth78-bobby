@@ -29,6 +29,9 @@ As a CSE student  at CBIT, I'm deeply passionate about  programming  and develop
           
  
 </div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=yashwanth78-bobby&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
 
 
 
