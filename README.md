@@ -3,8 +3,8 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-👋 Hey there! I'm a Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) passionate about technology and innovation.
-💡 I thrive on solving complex problems and crafting creative solutions using my technical and analytical abilities. I'm always on the lookout for opportunities to learn and grow in the realms of Web Development, Machine Learning, and Competitive Programming.
+👋Hello! I'm a Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT), driven by a passion for technology and innovation.,
+With a keen interest in programming, problem-solving, and development. My passions lie in Machine Learning, Web Development, and Competitive Programming.
 - 📫 My Portfolio **https://yashwanth-mamilla-portfolio.netlify.app/**
 
 [![](https://visitcount.itsvg.in/api?id=yashwanth78-bobby&icon=5&color=1)](https://visitcount.itsvg.in)
@@ -12,7 +12,15 @@
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-  
+### 🚀 Projects
+ -**[School Management System](https://github.com/yashwanth78-bobby/school-management-system) Techstack used : React JS,Node JS,Express JS,MongoDB
+
+ -** [Tours-Travels Booking System](https://github.com/yashwanth78-bobby/tours-travels-booking-system) TechStack used : React Js, MongoDb, NodeJs, Express JS, CSS
+
+ -**[Movie Recommendation System](https://github.com/yashwanth78-bobby/movie-recommender-system) Techstack: Machine Learning,Numpy,Pandas
+ <p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashwanth78-bobby&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <p align="left">
