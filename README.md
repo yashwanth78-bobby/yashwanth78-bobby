@@ -12,7 +12,8 @@ With a keen interest in programming, problem-solving, and development. My passio
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-### 🚀 Projects
+  
+### Projects:
   
  -**[School Management System](https://github.com/yashwanth78-bobby/school-management-system) Techstack used : React JS,Node JS,Express JS,MongoDB
 
@@ -23,9 +24,9 @@ With a keen interest in programming, problem-solving, and development. My passio
  <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashwanth78-bobby&theme=radical&no-frame=false&no-bg=false&margin-w=4)
    
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saisantosh2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
