@@ -13,16 +13,19 @@ With a keen interest in programming, problem-solving, and development. My passio
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 ### 🚀 Projects
+  
  -**[School Management System](https://github.com/yashwanth78-bobby/school-management-system) Techstack used : React JS,Node JS,Express JS,MongoDB
 
  -** [Tours-Travels Booking System](https://github.com/yashwanth78-bobby/tours-travels-booking-system) TechStack used : React Js, MongoDb, NodeJs, Express JS, CSS
 
  -**[Movie Recommendation System](https://github.com/yashwanth78-bobby/movie-recommender-system) Techstack: Machine Learning,Numpy,Pandas
+ 
  <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashwanth78-bobby&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+   
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
