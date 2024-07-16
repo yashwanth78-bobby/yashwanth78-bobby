@@ -19,14 +19,20 @@ With a keen interest in programming, problem-solving, and development. My passio
 
  -** [Tours-Travels Booking System](https://github.com/yashwanth78-bobby/tours-travels-booking-system) TechStack used : React Js, MongoDb, NodeJs, Express JS, CSS
 
- -**[Movie Recommendation System](https://github.com/yashwanth78-bobby/movie-recommender-system) Techstack: Machine Learning,Numpy,Pandas
+ -**[Movie Recommendation System](https://github.com/yashwanth78-bobby/movie-recommender-system) Techstack: Machine Learning, Numpy, Pandas, Scikit Learn
+ 
+ -**[IPL Win Predictor ](https://github.com/yashwanth78-bobby/ipl-win-predictor) Techstack: Machine Learning, Numpy, Pandas, Scikit Learn
+
+  -**[To-Do-List ](https://65c2727bd309341940a4d617--playful-khapse-a8c5f1.netlify.app/) Techstack: HTML, CSS, JavaScript
+
+   -**[React-News-App](https://github.com/yashwanth78-bobby/newsapp-react-api) Techstack: React JS, Tailwind CSS
  
  <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
    
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saisantosh2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yashwanth78-bobby&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
