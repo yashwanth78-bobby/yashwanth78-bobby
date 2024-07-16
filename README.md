@@ -14,20 +14,18 @@
 </p>
   
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saisantosh2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yashwanth78-bobby&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
 ### ☎ Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/saisantoshb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisantoshb" height="30" width="40" /></a>
-<a href="https://instagram.com/bonagirisaisantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bonagirisaisantosh" height="30" width="40" /></a>
-<a href="https://medium.com/@bonagirisaisantosh2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bonagirisaisantosh2004" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cbit1_2105319" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cbit1_2105319" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saisantosh2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saisantosh2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saisantosh3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saisantosh3007" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saisantoshb3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saisantoshb3007" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashwanth-mamilla-a02555228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth-mamilla" height="30" width="40" /></a>
+<a href="https://instagram.com/yashwanth_mamilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashwanth_mamilla" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/yashwanth_mamil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashwanth_mamil1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mamilla_yash18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mamilla_yash18" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/yashwanth_mamilla5476/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashwanth_mamilla5476" height="30" width="40" /></a>
 </p>
 
 <p align="left">
@@ -42,15 +40,15 @@
 </p>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saisantosh2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saisantosh2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yashwanth78-bobby&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashwanth78-bobby&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saisantosh2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-[![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saisantosh2004&theme=react-dark)](https://github.com/Saisantosh2004/github-readme-activity-graph)
+[![Yashwanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashwanth78-bobby&theme=react-dark)](https://github.com/yashwanth78-bobby/github-readme-activity-graph)
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
