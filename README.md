@@ -19,9 +19,9 @@ With a keen interest in programming, problem-solving, and development. My passio
 
  -** [Tours-Travels Booking System](https://github.com/yashwanth78-bobby/tours-travels-booking-system) TechStack used : React Js, MongoDb, NodeJs, Express JS, CSS
 
- -**[Movie Recommendation System](https://github.com/yashwanth78-bobby/movie-recommender-system) Techstack: Machine Learning, Numpy, Pandas, Scikit Learn
+ -**[Movie Recommendation System](https://github.com/yashwanth78-bobby/movie-recommender-system) Techstack: Streamlit, Numpy, Pandas, Scikit Learn
  
- -**[IPL Win Predictor ](https://github.com/yashwanth78-bobby/ipl-win-predictor) Techstack: Machine Learning, Numpy, Pandas, Scikit Learn
+ -**[IPL Win Predictor ](https://github.com/yashwanth78-bobby/ipl-win-predictor) Techstack: Streamlit, Numpy, Pandas, Scikit Learn
 
   -**[To-Do-List ](https://65c2727bd309341940a4d617--playful-khapse-a8c5f1.netlify.app/) Techstack: HTML, CSS, JavaScript
 
