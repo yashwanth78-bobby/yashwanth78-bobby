@@ -2,9 +2,9 @@
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-  
+  <h3 align="center">
 👋Hello! I'm a Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT), driven by a passion for technology and innovation.,
-With a keen interest in programming, problem-solving, and development. My passions lie in Machine Learning, Web Development, and Competitive Programming.
+With a keen interest in programming, problem-solving, and development. My passions lie in Machine Learning, Web Development, and Competitive Programming. </h3>
 - 📫 My Portfolio **https://yashwanth-mamilla-portfolio.netlify.app/**
 
 [![](https://visitcount.itsvg.in/api?id=yashwanth78-bobby&icon=5&color=1)](https://visitcount.itsvg.in)
